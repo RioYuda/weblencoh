@@ -34,7 +34,7 @@
 
     // Go to bottom button
     $('.go-to-bottom').click(function () {
-        $('html, body').animate({scrollTop: 8000}, 1500, 'easeInQuad');
+        $('html, body').animate({scrollTop: 10000}, 1500, 'easeInQuad');
         return false;
     });
 
